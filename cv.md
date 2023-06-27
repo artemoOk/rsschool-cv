@@ -2,11 +2,15 @@
 =================================
 # ***Contacts:***
 E-mail: 7278290@gmail.com
+
 Github: artemoOk
+
 =================================
 # ***Languages:***
 Russian - native language
+
 English - A0
+
 ===============================
 # ***Education:***
 Gomel State Technical University named after P.O. Sukhoi - 
